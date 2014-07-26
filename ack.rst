@@ -28,34 +28,22 @@ Past Sponsors
 -  University of Cardiff, UK (partial sponsor of a guest researcher
    visit)
 
-Principal Investigators
-=======================
-
--  `Gregor von Laszewski <http://gregor.cyberaide.org>`__\ (J)
--  `Keith Jackson <http://dsd.lbl.gov/~kjackson/>`__ (P)
-
-where (P) stands for Python and (J) for Java.
-
-Lab Team Members in Alphabetical Order
-======================================
-
--  Kaizar Amin (J), University of North Texas and Argonne National
-   Laboratory
--  Jarek Gawor (J), Argonne National Laboratory (jGlobus)
--  Mike Hategan (J), Argonne National Laboratory
--  David Konerding (P), Lawrence Berkeley National Laboratory
--  Robert Winch (J), Loyola University and Argonne National Laboratory
-
-Other Contributors
+Contributors
 ==================
 
 -  Rashid Al Ali (J) Cardiff University, UK
+-  Kaizar Amin (J), University of North Texas and Argonne National
+   Laboratory
 -  Jim Baseney (J) NCSA
 -  Matt Bone (J) Loyola University
 -  Jean-Claude Cote (J) (formerly CNRC, CA)
 -  Jonathan Di Carlo (J), University of Chicago and Argonne National
    Laboratory
+-  Jarek Gawor (J), Argonne National Laboratory (jGlobus)
 -  Scott Gose (J) Argonne National Laboratory
+-  **PI** Mike Hategan (J), Argonne National Laboratory
+-  **PI** `Keith Jackson <http://dsd.lbl.gov/~kjackson/>`__ (P) (in Memory of)
+-  David Konerding (P), Lawrence Berkeley National Laboratory
 -  Sriram Krishnan (J) Indiana University (Java)
 -  Peter Lane (J) Argonne National Laboratory
 -  Sandeep Nijsure (J) University of North Texas
@@ -72,8 +60,10 @@ Other Contributors
 -  Mike Sosonkin (J), was Polytechnic NY
 -  Vladimir Silva (J) was IBM, now Lokeed Martin
 -  Benjamin Temko (J) was Indiana University
+-  **PI** `Gregor von Laszewski <http://gregor.cyberaide.org>`__\ (J)
 -  Snigdha Verma, (CORBA) was Rutgers
 -  Nithya Vijayakumar (J) Indiana University
+-  Robert Winch (J), Loyola University and Argonne National Laboratory
 
 NSF REU Students
 ================
@@ -86,10 +76,6 @@ NSF REU Students
 -  Phil Zimny
 -  Chris Grubbs
 
-Biosketches
-===========
-
-Some Biosketches of contributors can be found `here <Team>`__.
 
 Software
 ========
