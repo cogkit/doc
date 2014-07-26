@@ -1,5 +1,5 @@
-lJava CoG Kit Workflow Guide
-===========================
+Java CoG Kit Workflow Guide
+=====================================
 
 From Java CoG Kit
 
