@@ -73,19 +73,3 @@ NSF REU Students
 -  Chris Grubbs
 
 
-Software
-========
-
-http://www.eclipse.org/eclipse.org-common/themes/Phoenix/images/eclipse_home_header.jpg
-
-http://www.eclipse.org Eclipse IDE
-
---------------
-
-YourKit is kindly supporting open source projects with its full-featured
-Java Profiler.
-
-Take a look at YourKit's software products: `YourKit Java
-Profiler <http://www.yourkit.com/java/profiler/index.jsp>`__ and
-`YourKit .NET
-Profiler <http://www.yourkit.com/.net/profiler/index.jsp>`__
