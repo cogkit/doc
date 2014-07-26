@@ -1,9 +1,5 @@
-Main Page
-=========
-
-From Java CoG Kit
-
-Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
+Java CoG Kit
+===============
 
 To cite the Java CoG Kit in your papers, please use:
 
