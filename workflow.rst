@@ -1,9 +1,7 @@
-lJava CoG Kit Workflow Guide
-===========================
+Java CoG Kit Workflow Guide
+=====================================
 
 From Java CoG Kit
-
-Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
 
 **Gregor von Laszewski** and **Mike Hategan**
 
@@ -15,7 +13,7 @@ Jump to: `navigation <#column-one>`__, `search <#searchInput>`__
 Previous version:
 `4.1.3 <http://wiki.cogkit.org/index.php?title=Java_CoG_Kit_Workflow_Guide&oldid=4098>`__
 
-For more information contact gregor@mcs.anl.gov and hategan@mcs.anl.gov
+For more information contact laszewski@gmail.com and hategan@mcs.anl.gov
 
 For support, please use our `bugzilla
 system <http://www.cogkit.org/wiki/cog/moin.cgi/CoGKit/Bugs?action=print>`__
@@ -98,7 +96,7 @@ Contents
 -  `21 Current Tasks <#Current_Tasks>`__
 
 Abstract
-========
+=============
 
 This page contains a draft for the Java CoG Kit workflow guide. Once the
 information on this page is collected and complete we will include it in
@@ -121,7 +119,7 @@ CoG Kit and newer. It is not compatible with the Version 4.0.1. The
 version 4.1.4 is only avalable from the CVS.
 
 Summary of Changes to Previous Versions
-=======================================
+============================================
 
 -  <if><```condition`` </wiki/V:4.1.4/Karajan:System_Library#sys:condition>`__\ >
    ... </condition> </if> do no longer contain the
@@ -133,7 +131,7 @@ Summary of Changes to Previous Versions
 -  We have renamed the file cog.xml to cogkit.xml
 
 Install for Grid Users
-======================
+==========================
 
 First you have to download the Java CoG Kit version 4 and install it on
 your client. The vaious ways to do this are documented in the
@@ -180,7 +178,7 @@ examples <http://www.cogkit.org/viewcvs/viewcvs.cgi/src/cog/modules/karajan/exam
 If this does not work something is wrong with your setup.
 
 Install for non Grid Users for the Impatient
-============================================
+=================================================
 
 Although we believe our documentation on the previous section is
 complete we have provided on popular demand this section for the
@@ -220,7 +218,7 @@ Please note that xml like workflows must be stored in a file with the
 ending .xml
 
 Hello world!
-============
+=================
 
 It is relatively straightforward what the "Hello World" program does.
 What is of relevance is that Karajan workflows are written inside a
@@ -266,7 +264,7 @@ Whenever a name is put inside curly braces, Karajan will look for a
 variable with that name, and substitute its value.
 
 Tasks/Jobs
-==========
+===================
 
 The Java CoG Kit introduces the model of tasks. In a Karajan workflow
 tasks are implemented as processes that are managed by the Karajan
@@ -330,8 +328,8 @@ Karajan makes it relatively easy to use other machines, too:
       <echo message="Job completed"/>
     </project>
 
-| 
-|  The difference from the local example consists of the addition of a
+ 
+The difference from the local example consists of the addition of a
 **host** argument to
 **<```execute`` </wiki/V:4.1.4/Karajan:Task_Library#task:execute>`__\ >**
 which indicates the remote machine the executable, and a **provider**
@@ -949,8 +947,8 @@ willing consumer:
       ...
     </project>
 
-| 
-|  A return value does not have to be used immediately when generated:
+ 
+A return value does not have to be used immediately when generated:
 
 ::
 
@@ -1103,8 +1101,8 @@ Workflow. The complete example is available from
        </form>
      </set>
 
-| 
-|  A different example includes a job submission form is included in the
+ 
+A different example includes a job submission form is included in the
 `CVS <http://www.cogkit.org/viewcvs/viewcvs.cgi/src/cog/modules/karajan/examples/job-submission-form.xml?rev=HEAD&content-type=text/vnd.viewcvs-markup>`__.
 It allows to send Jobs to a Grid. Naturaly you should be adapting this
 code according to your available infrastructure.
@@ -1169,7 +1167,6 @@ consume the amount of memory needed for the corresponding Java object,
 the amount of memory needed for the name of the variable, and the amount
 of memory needed to create the entry in the hashtable.
 
-| 
 
 Appendix
 ========
@@ -1177,7 +1174,7 @@ Appendix
 `Java CoG Kit Workflow Guide: Proposed
 Extensions </wiki/Java_CoG_Kit_Workflow_Guide:_Proposed_Extensions>`__
 
-| 
+
 
 Difficulties using the ssh provider
 -----------------------------------
@@ -1306,19 +1303,7 @@ Toolbox
 -  `Permanent
    link </index.php?title=Java_CoG_Kit_Workflow_Guide&oldid=7487>`__
 
-|Powered by MediaWiki|
-
--  This page was last modified on 22 April 2008, at 15:58.
--  This page has been accessed 69,240 times.
--  `Privacy policy </wiki/Java_CoG_Kit:Privacy_policy>`__
--  `About Java CoG Kit </wiki/Java_CoG_Kit:About>`__
--  `Disclaimers </wiki/Java_CoG_Kit:General_disclaimer>`__
-
-.. |Alert.gif| image:: /images/e/e7/Alert.gif
-   :target: /wiki/File:Alert.gif
 .. |image1| image:: /images/thumb/6/6c/Formdemo.png/210px-Formdemo.png
    :target: /wiki/File:Formdemo.png
 .. |image2| image:: /skins/common/images/magnify-clip.png
    :target: /wiki/File:Formdemo.png
-.. |Powered by MediaWiki| image:: /skins/common/images/poweredby_mediawiki_88x31.png
-   :target: //www.mediawiki.org/
