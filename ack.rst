@@ -1,7 +1,7 @@
-\_\_NOTOC\_\_ If we have forgotten to mention you on this page, please
+If we have forgotten to mention you on this page, please
 contact us, so that we can correct it.
 
-Current Sponsors
+Sponsors
 ================
 
 -  `NSF NMI <http://www.nsf-middleware.org/>`__ http://www.ogce.org
@@ -11,10 +11,6 @@ Current Sponsors
 -  `MICS <http://www.sc.doe.gov/ascr/mics/>`__ at the `Department of
    Energy <http://www.energy.gov/>`__
 -  jglobus is sponsored by the NMI CDIGS project lead by Ian Foster
-
-Past Sponsors
-=============
-
 -  `NSF Alliance <http://www.extreme.indiana.edu/alliance/>`__
 -  `Mathematics and Computer Science
    Division <http://www.mcs.anl.gov>`__ at `Argonne National
